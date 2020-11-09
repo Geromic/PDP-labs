@@ -1,0 +1,4 @@
+George,1000
+Mihai,420
+Andrei,9001
+Somebody,300
